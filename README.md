@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Coming Soon](https://geshwho.com/blog).
+[Check out my first blog post](https://geshwho.com/2020/hello-world/).
 
 <!--
 **geshwho/geshwho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
